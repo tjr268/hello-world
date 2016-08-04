@@ -1,3 +1,3 @@
 # hello-world
 
-this is my first attempt at real workflow
+I had a small mistake so I fixed it
